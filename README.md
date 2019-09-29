@@ -1,2 +1,2 @@
 # http://www.wallpapermaiden.com
-Design updates, quick fix and updates
+Design updates, quick fix and patches.
